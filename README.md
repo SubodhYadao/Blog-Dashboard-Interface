@@ -1,4 +1,4 @@
-# Blog Dashboard
+# Blog Dashboard Interface
 
 This is a responsive Blog Dashboard web app built with React.js and Redux Toolkit. It displays a list of blog posts fetched from the JSONPlaceholder API and supports viewing, filtering, and adding new posts. The interface is mobile-friendly and includes a dark/light mode toggle.
 
